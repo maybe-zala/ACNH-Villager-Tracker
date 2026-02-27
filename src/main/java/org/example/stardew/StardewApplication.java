@@ -4,10 +4,10 @@ import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class AC {
+public class StardewApplication {
 
     public static void main(String[] args) {
-        SpringApplication.run(AC.class, args);
+        SpringApplication.run(StardewApplication.class, args);
     }
 
 }

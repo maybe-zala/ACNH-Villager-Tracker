@@ -4,5 +4,5 @@ import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 
 @Repository
-public interface CharacterDoa extends JpaRepository<Characters, Long> {
+public interface CharacterDao extends JpaRepository<Characters, Long> {
 }
